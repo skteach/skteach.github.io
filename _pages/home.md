@@ -18,23 +18,24 @@ excerpt:
 feature_row:
   - image_path: /assets/images/image1.jpg
     alt: "Highlight1"
-    title: "Simpler"
-    excerpt: "With AyePages it is simpler to customise your GitHub Pages site as per your choice, just a fork would serve the purpose. <br><br><br>"
-    url: "/Highlight2/"
+    title: "Learn"
+    excerpt: "All you need to do is just take 2 minutes of your time and that's all for a fork. Ofcourse, a bit longer to learn, try out a free course [here](https://ayeai.xyz/site/courses/github-pages-site-in-2-minutes-with-ayepages/)
+ <br><br><br>"
+    url: "/learn/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/image2.jpg
     alt: "Highlight2"
-    title: "Faster"
-    excerpt: " All you need to do is just take 2 minutes of your time and that all to fork. Ofcourse, a bit longer to learn, try out a free course [here](https://ayeai.xyz/site/courses/github-pages-site-in-2-minutes-with-ayepages/) <br><br><br>"
-    url: "/Highlight3/"
+    title: "Fork"
+    excerpt: " With AyePages it is simpler to customise your GitHub Pages site as per your choice, just a fork would serve the purpose<br><br><br>"
+    url: "/fork/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/image3.jpg
     alt: "Highlight3"
-    title: "Flexible"
-    excerpt: " AyePages is flexible and you can adpot it as per needes and choices. You may use it as blog, personal profile, information site and its your choice!<br><br><br>"
-    url: "/Highlight2/"
+    title: "Deploy"
+    excerpt: " AyePages is flexible and you can adopt it as per needs and choices. You may use it as blog, personal profile, information site and it's your choice!<br><br><br>"
+    url: "/deploy/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
@@ -45,4 +46,5 @@ feature_row:
 
 AyePages site demonstrates a user friendly template which is suitable for making personal profiles, trainers profile, Course pages, blogs, etc..
 
-This site also contains pages that helps you to connnect with various social media channels, it shows how animations on the site looks beautiful, meetings on the site makes life easier.
+This site also contains pages that help you to connect with various social media channels, it shows how animations on the site look beautiful, meetings on the site makes life easier.
+
