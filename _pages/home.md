@@ -33,7 +33,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/image3.jpg
     alt: "Highlight3"
-    title: "Flexible"
+    title: "Deploy"
     excerpt: " AyePages is flexible and you can adopt it as per needs and choices. You may use it as blog, personal profile, information site and it's your choice!<br><br><br>"
     url: "/deploy/"
     btn_class: "btn--primary"
