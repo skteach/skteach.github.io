@@ -54,6 +54,15 @@ main:
     url: /fbpost/
   - title: "Linkedin Post"
     url: /linkedinpost/
+  - title: "Learn"
+    url: /learn/
+  - title: "Fork"
+    url: /fork/
+  - title: "Deploy"
+    url: /deploy/
+    
+    
+    
   
     
     
