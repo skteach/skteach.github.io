@@ -10,10 +10,10 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>This is a fork of AyePages™ site<br>
+  <b>Internship Portfolio site<br>
   meant for academic purposes</b><br>
   <small>
-  <a href="about/">More about AyePages™  </a>
+  <a href="about/">More about me™  </a>
   </small>
 feature_row:
   - image_path: /assets/images/image1.jpg
@@ -38,8 +38,12 @@ feature_row:
     url: "/deploy/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+    - image_path: assets/images/firehydrant1.png
+    alt: "Model2"
+    title: "Learn"
+    excerpt: "
+ <br><br><br>"
 ---
-- image_path: /assets/images/dolphine.png
 - 
 <iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 
