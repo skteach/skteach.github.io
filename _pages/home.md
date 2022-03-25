@@ -44,7 +44,7 @@ feature_row:
 
 {% include feature_row %}
 
-AyePages site demonstrates a user friendly template which is suitable for making personal profiles, trainers profile, Course pages, blogs, etc..
+Hi I am Sahaja Katta. A, final year student of BFA in Animation from JNFAU.
+This website contains my work done during my internship with AyeAI.
 
-This site also contains pages that help you to connect with various social media channels, it shows how animations on the site look beautiful, meetings on the site makes life easier.
 
