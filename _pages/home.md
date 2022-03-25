@@ -43,7 +43,7 @@ feature_row:
 ---
 {% include feature_row %}
 
-Hi I am Sahaja Katta. A, final year student of BFA in Animation from JNFAU.
+Hi, welcome to my portfolio site. I am a final year student of BFA in Animation from JNFAU.
 This website contains my work done during my internship with AyeAI.
 
 
