@@ -24,7 +24,7 @@ feature_row:
     url: "/wireframe/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/image2.jpg
+  - image_path: assets/images/interiorprops2.png
     alt: "Highlight2"
     title: "Surface Angle View"
     excerpt: "You will find Surface Angle view of models. 
