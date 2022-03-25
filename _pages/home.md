@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: AyePages™ 
+title: Sahaja Katta 
 header:
   overlay_color: "#4d2e00"
   overlay_image: assets/images/car2.png
@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>This is an AyePages™ site<br>
+  <b>This is a fork of AyePages™ site<br>
   meant for academic purposes</b><br>
   <small>
   <a href="about/">More about AyePages™  </a>
@@ -39,7 +39,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
-
+- image_path: /assets/images/dolphine.png
+- 
 <iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 
 {% include feature_row %}
