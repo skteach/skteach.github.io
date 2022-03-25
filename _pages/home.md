@@ -16,7 +16,7 @@ excerpt:
   <a href="about/">More about me™  </a>
   </small>
 feature_row:
-  - image_path: /assets/images/image1.jpg
+  - image_path: assets/images/interiorprops1.png
     alt: "Highlight1"
     title: "Wireframe View"
     excerpt: "click on learnmore to see more wireframe model
@@ -32,7 +32,7 @@ feature_row:
     url: "/surfaceangleview/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: assets/images/interiorprops2.png
+  - image_path: assets/images/interiorprops3.png
     alt: "Highlight3"
     title: "Solid View"
     excerpt: " Find the solid view of models here 
@@ -41,9 +41,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"        
 ---
- 
-<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
-
 {% include feature_row %}
 
 Hi I am Sahaja Katta. A, final year student of BFA in Animation from JNFAU.
