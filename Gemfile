@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Sahaja Katta"
-  avatar : "/assets/images/ayetutor.png"
+  avatar : "https://ayeai.xyz/site/wp-content/uploads/avatars/73/avatar-bpfull.jpg"
   bio    : "BFA Animation - Final year. We make technology democratic."
   links:
     - label: "Twitter"
