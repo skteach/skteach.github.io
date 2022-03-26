@@ -5,7 +5,7 @@ hidden: true
 title: Sahaja Katta 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: assets/images/car2.png
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Adriaen_van_Ostade_006.jpg/986px-Adriaen_van_Ostade_006.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join Project VIKRAM : Change the world"
       url: "https://projectvikram.github.io/join-us//"
