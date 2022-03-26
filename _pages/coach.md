@@ -6,7 +6,7 @@ feature_row:
     alt: "Dr Srija Katta (avatar image)"
     title: "Dr Srija Katta"
     excerpt: "Technology Evangelist-Pharma & Convenor"
-    url: "/team/#dr-srija-katta"
+    url: "/coaches/#dr-srija-katta"
     btn_class: "btn--primary"
     btn_label: "Profile"
 ---
