@@ -5,13 +5,6 @@ main:
   - title: "Highlights"
     url: /highlights/
 
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Posts"
-    url: /posts/
-
   - title: "Resume"
     url: /resume/
   - title: "Academics"
@@ -22,19 +15,27 @@ main:
   - title: AyeAI
     url: https://ayeai.xyz/
   
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Posts"
+    url: /posts/
+
   - title: "License"
     url: /license/
   - title: "Terms & Conditions"
     url: /terms/
   - title: "Privacy Policy"
     url: /privacy/
-    
-    
+   
   - title: "FB Post"
     url: /fbpost/
   - title: "Linkedin Post"
     url: /linkedinpost/
   - title: "Fork"
     url: /fork/
-  - title: "Deploy"
-    url: /deploy/
+
+  - title: "AyePages site"
+    url: https://ayepages.ayeai.xyz
+

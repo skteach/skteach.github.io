@@ -12,7 +12,7 @@ header:
 excerpt:
   <b>Professional Portfolio</b><br>
   <small>
-  (for academic purposes)<br>
+  (for academic purposes only)<br>
   <a href="resume/">More about me  </a>
   </small>
 feature_row:
