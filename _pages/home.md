@@ -30,7 +30,7 @@ feature_row:
     url: "/animations/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/lamp_model.stl.png
+  - image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DLP_Home_Theatre_Projector.jpg/320px-DLP_Home_Theatre_Projector.jpg
     alt: "Creative work"
     title: "Creative Pieces"
     excerpt: "Creative pieces from my portfolio  <br><br><br>"
