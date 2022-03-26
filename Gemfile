@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the sites via {{ site.myvariable }}.
-title: AyePages™ 
+title: Sahaja's™ 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is  an AyePages™ site meant for academic purposes
+  This is  an Sahaja's™ site meant for academic purposes
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
