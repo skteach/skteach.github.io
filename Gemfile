@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the sites via {{ site.myvariable }}.
-title: AyePages™ 
+title: Sahaja's™ 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is  an AyePages™ site meant for academic purposes
+  This is  an Sahaja's™ portfolio site (for academic purposes)
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "AyeAI Consulting"
-  avatar : "/assets/images/ayetutor.png"
-  bio    : "AyeAI is a cognitive edutech company. We make technology democratic."
+  name   : "Sahaja Katta"
+  avatar : "https://ayeai.xyz/site/wp-content/uploads/avatars/73/avatar-bpfull.jpg"
+  bio    : "BFA Animation - Final year. Bring art to life."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

@@ -1,0 +1,1 @@
+for n in Contact Highlights Resume Academics Experience; do cat example1.md | sed "s/Example 1/$n/g; s/example1/$(echo $n | tr 'A-Z' 'a-z')/g" > $n.md;done

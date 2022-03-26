@@ -15,10 +15,10 @@
 # in the sites via {{ site.myvariable }}.
 # last update @srija-ieee
 
-title: AyePages™ 
+title: Sahaja's™ 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a demo website meant for academic purposes.
+  Professional portfolio
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "AyeAI Consulting"
-  avatar : "/assets/images/ayetutor.png"
-  bio    : "AyeAI is a cognitive edutech company"
+  name   : "Sahaja Katta"
+  avatar : "https://ayeai.xyz/site/wp-content/uploads/avatars/73/avatar-bpfull.jpg"
+  bio    : "BFA Animation - Final year"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
