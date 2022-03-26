@@ -1,14 +1,7 @@
 ---
-permalink: /partners/
-title: Partners
+permalink: /collaborators/
+title: Collaborators
 feature_row:
-  - image_path: https://ayeai.xyz/site/wp-content/uploads/2019/09/cropped-AyeAI-logo-cropped-tm-150x150-v2.0.svg-1.png
-    alt: "AyeAI (avatar image)"
-    title: "AyeAI"
-    excerpt: "Sahaja Katta, INDIA"
-    url: "/partners/#ayeai"
-    btn_class: "btn--primary"
-    btn_label: "Profile"
   - image_path: https://ayeai.xyz/site/wp-content/uploads/2019/09/cropped-AyeAI-logo-cropped-tm-150x150-v2.0.svg-1.png
     alt: "AyeAI (avatar image)"
     title: "AyeAI"
