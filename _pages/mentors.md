@@ -6,14 +6,14 @@ feature_row:
     alt: "Abhishek Choudhary (avatar image)"
     title: "Abhishek Choudhary"
     excerpt: "Founding Architect & Convenor"
-    url: "/team/#Abhishek-Choudhary"
+    url: "/mentors/#Abhishek-Choudhary"
     btn_class: "btn--primary"
     btn_label: "Profile"
   - image_path: https://projectvikram.github.io/restricted_assets/images/dr_srija.jpg
     alt: "Dr Srija Katta (avatar image)"
     title: "Dr Srija Katta"
     excerpt: "Technology Evangelist-Pharma & Convenor"
-    url: "/team/#dr-srija-katta"
+    url: "/mentors/#dr-srija-katta"
     btn_class: "btn--primary"
     btn_label: "Profile"
 ---
