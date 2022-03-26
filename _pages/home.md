@@ -41,9 +41,18 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"        
 ---
+
+## Hi, welcome to my portfolio site. I am a final year student of BFA in Animation from JNFAU.
+### This website contains my work done during my internship with AyeAI.
+
+<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/car_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/car_model.stl.png" width=400 height=300></img></a>
+<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/dolphin_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/dolphin_model.stl.png" width=400 height=300></img></a>
+<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/fire_hydrant_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/fire_hydrant_model.stl.png" width=400 height=300></img></a>
+<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/Interior_prop_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/Interior_prop_model.stl.png" width=400 height=300></img></a>
+<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/Keyboard_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/Keyboard_model.stl.png" width=400 height=300></img></a>
+<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/lamp_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/lamp_model.stl.png" width=400 height=300></img></a>
+<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/Spaceship_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/Spaceship_model.stl.png" width=400 height=300></img></a>
+<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/vintage_telephone_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/vintage_telephone_model.stl.png" width=400 height=300></img></a>
+
 {% include feature_row %}
-
-Hi, welcome to my portfolio site. I am a final year student of BFA in Animation from JNFAU.
-This website contains my work done during my internship with AyeAI.
-
 
