@@ -10,9 +10,9 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join Project VIKRAM : Change the world"
       url: "https://projectvikram.github.io/join-us//"
 excerpt:
-  <b>Internship Portfolio site<br>
-  meant for academic purposes</b><br>
+  <b>Professional Portfolio</b><br>
   <small>
+  (for academic purposes)<br>
   <a href="resume/">More about me  </a>
   </small>
 feature_row:
