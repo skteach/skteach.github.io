@@ -1,27 +1,9 @@
 main:
-  - title: AyeAI
-    url: https://ayeai.xyz/
-    
-  - title: Create a site
-    url: /learn/
-  - title: Make a blog
-    url: /learn/
-  - title: Support meetings
-    url: /meetings/
-  - title: Fork it
-    url: /fork/
-  - title: Update...
-    url: /fork/
-  - title: You are live...
-    url: /example3/
-  - title: Get is now!
-    url: /example4/
+  - title: "Contact"
+    url: /contact/
 
-  - title: Template
-    url: /template/
-  - title: Animation
-    url: /anim/
-    
+  - title: "Highlights"
+    url: /highlights/
 
   - title: "Categories"
     url: /categories/
@@ -29,19 +11,17 @@ main:
     url: /tags/
   - title: "Posts"
     url: /posts/
+
+  - title: "Resume"
+    url: /resume/
+  - title: "Academics"
+    url: /academics/
     
-  - title: "Partners"
-    url: /partners/
-  - title: "Team"
-    url: /team/
-  - title: "Form"
-    url: /form/
-  - title: "Video"
-    url: /video/
-  - title: "Data Visualization"
-    url: /datavisualization/
-    
-    
+  - title: "Experience"
+    url: /experience/
+  - title: AyeAI
+    url: https://ayeai.xyz/
+  
   - title: "License"
     url: /license/
   - title: "Terms & Conditions"
@@ -54,16 +34,7 @@ main:
     url: /fbpost/
   - title: "Linkedin Post"
     url: /linkedinpost/
-  - title: "Learn"
-    url: /learn/
   - title: "Fork"
     url: /fork/
   - title: "Deploy"
     url: /deploy/
-    
-    
-    
-  
-    
-    
-  
