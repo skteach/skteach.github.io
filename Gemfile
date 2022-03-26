@@ -78,15 +78,15 @@ author:
 
 footer:
   links:
-    - label: "Advisors"
+    - label: "Coaches"
       icon: "fas fa-fw fa-award"
-      url: "/advisors/"
-    - label: "Team"
+      url: "/coaches/"
+    - label: "Mentors"
       icon: "fas fa-fw fa-users-cog"
-      url: "/team/"
-    - label: "Partners"
+      url: "/mentors/"
+    - label: "Collaborators"
       icon: "fas fa-fw fa-handshake"
-      url: "/partners/"
+      url: "/collaborators/"
     - label: "License"
       icon: "fas fa-fw fa-file-contract"
       url: "/license/"
