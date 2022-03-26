@@ -2,36 +2,31 @@
 permalink: /collaborators/
 title: Collaborators
 feature_row:
-  - image_path: https://ayeai.xyz/site/wp-content/uploads/2019/09/cropped-AyeAI-logo-cropped-tm-150x150-v2.0.svg-1.png
-    alt: "AyeAI (avatar image)"
-    title: "AyeAI"
-    excerpt: "Sahaja Katta, INDIA"
-    url: "/partners/#ayeai"
+  - image_path: https://projectvikram.github.io/restricted_assets/images/dr_srija.jpg
+    alt: "Dr Srija Katta (avatar image)"
+    title: "Dr Srija Katta"
+    excerpt: "Technology Evangelist-Pharma & Convenor"
+    url: "/team/#dr-srija-katta"
     btn_class: "btn--primary"
     btn_label: "Profile"
 ---
 
-# Partners in Inclusive Development through Cognitization
-#### Project Vikram  is honoured to have the following dignitaries on its panel of advisors
+# Professional Collaborators
 
 {% include feature_row %}
 
-<img src="https://ayeai.xyz/site/wp-content/uploads/2019/09/cropped-AyeAI-logo-cropped-tm-150x150-v2.0.svg-1.png" alttext="AyeAI (avatar image)" width="300" height="300">
+<img src="https://projectvikram.github.io/restricted_assets/images/dr_srija.jpg" alttext="Dr Srija Katta (avatar image)" width="300" height="300">
 
-## Sahaja Katta <sub>India</sub>
-### Sahaja Katta
-#### @ayeai
+## Dr Srija Katta 
+### Technology Evangelist-Pharma and Convenor
+#### @srija-ieee
 
-Sahaja Katta is a cognitive edutech organization and the primary technical partners for Project Vikram.
+Dr Srija is the Co-Founder of AyeAI Consulting and heads Company Operations and Pharma lab. She is a Director at Vyas Labs Pvt Ltd and Interglial Healthcare (OPC) Pvt Ltd. 
 
-## &#10070;
+She is a passionate Entrepreneur experienced in Startup Strategy, New Product Road Map, Requirement Analysis, with skills in Artificial Intelligence for Pharma and Healthcare. She was one among the invitees of Roundtable “Transforming Primary Healthcare – Leveraging Technologies” at NASSCOM Technology and Leadership Forum 2019. She was an invited speaker for IEEE CIS Summer School 2018 and has delivered a hands-on session on topic “AI in Healthcare.” Dr Srija is also familiar with Course Design, Seminars and Workshop delivery. 
 
-<img src="https://ayeai.xyz/site/wp-content/uploads/2019/09/cropped-AyeAI-logo-cropped-tm-150x150-v2.0.svg-1.png" alttext="AyeAI (avatar image)" width="300" height="300">
+Dr Srija is a Clinical Pharmacist (Doctor of Pharmacy) by profession, trained in biz-ops like Regulatory Compliance, Banking Operations, HR Management, Public Relations, Business Development, Collaterals Design, Awareness and Marketing Campaign Design and other technical aspects like GitOps, Website Development among others, She is skilled in Systemic and Conversational Peer Review and has been a Reviewer for a few international conferences and Journals including International Society of Pharmacoeconomics and Outcomes Research - 6th Latin America Conference, Brazil - 2017 and 20th Annual European Congress - 2017.
 
-## Sahaja Katta <sub>India</sub>
-### Sahaja Katta
-#### @ayeai
-
-Sahaja Katta is a cognitive edutech organization and the primary technical partners for Project Vikram.
+Her professional interests include Artificial Intelligence and Insilico Drug Discovery, Medical Devices, Digihealth, Telemedicine, IoMT. Research interests include Psychoneuroimmunological studies with respect to human epigenetics and social habits. She aspires for Social Welfare and has conducted various Healthcare Awareness Campaign during her graduation days. She actively coordinates the activities of TWISHA - The Women in Self Health Awareness, a health4all initiative by an NGO, Gramsheel Foundation. She has been one among the top distinction holders of the prestigious Ashoka Changemaker Intraprenuership - 2018
 
 ## &#10070;
