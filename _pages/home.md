@@ -16,7 +16,7 @@ excerpt:
   <a href="resume/">More about me  </a>
   </small>
 feature_row:
-  - image_path: assets/images/interiorprops1.png
+  - image_path: https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/car_model.stl.png
     alt: "Models"
     title: "Models"
     excerpt: "Graphics models portfolio <br><br><br>"
@@ -30,7 +30,7 @@ feature_row:
     url: "/animations/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: assets/images/interiorprops3.png
+  - image_path: https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/lamp_model.stl.png
     alt: "Creative work"
     title: "Creative Pieces"
     excerpt: "Creative pieces from my portfolio  <br><br><br>"
@@ -39,17 +39,9 @@ feature_row:
     btn_label: "Learn more"        
 ---
 
-## Hi, welcome to my portfolio site. I am a final year student of BFA in Animation from JNFAU.
-### This website contains my work done during my internship with AyeAI.
+### Hi, welcome to my portfolio site. I am a final year student of BFA in Animation from JNFAU.
+#### This website contains my work portfolio.
 
-<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/car_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/car_model.stl.png" width=400 height=300></a>
-<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/dolphin_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/dolphin_model.stl.png" width=400 height=300></a>
-<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/fire_hydrant_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/fire_hydrant_model.stl.png" width=400 height=300></a>
-<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/Interior_prop_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/Interior_prop_model.stl.png" width=400 height=300></a>
-<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/Keyboard_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/Keyboard_model.stl.png" width=400 height=300></a>
-<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/lamp_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/lamp_model.stl.png" width=400 height=300></a>
-<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/Spaceship_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/Spaceship_model.stl.png" width=400 height=300></a>
-<a href="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/3js/vintage_telephone_model.stl.html"><img src="https://ayeinterns.github.io/ayeinterns-winter2021/sahaja/images/vintage_telephone_model.stl.png" width=400 height=300></a>
 
 {% include feature_row %}
 
