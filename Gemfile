@@ -16,7 +16,7 @@
 title: Sahaja's™ 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  This is  an Sahaja's™ site meant for academic purposes
+  This is  an Sahaja's™ portfolio site (for academic purposes)
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Sahaja Katta"
   avatar : "https://ayeai.xyz/site/wp-content/uploads/avatars/73/avatar-bpfull.jpg"
-  bio    : "BFA Animation - Final year. We make technology democratic."
+  bio    : "BFA Animation - Final year. Bring art to life."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
