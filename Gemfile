@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "AyeAI Consulting"
+  name   : "Sahaja Katta"
   avatar : "/assets/images/ayetutor.png"
   bio    : "AyeAI is a cognitive edutech company. We make technology democratic."
   links:
