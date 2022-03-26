@@ -80,22 +80,22 @@ footer:
   links:
     - label: "Coaches"
       icon: "fas fa-fw fa-award"
-      url: "/coaches/"
+      url: "coaches/"
     - label: "Mentors"
       icon: "fas fa-fw fa-users-cog"
-      url: "/mentors/"
+      url: "mentors/"
     - label: "Collaborators"
       icon: "fas fa-fw fa-handshake"
-      url: "/collaborators/"
+      url: "collaborators/"
     - label: "License"
       icon: "fas fa-fw fa-file-contract"
-      url: "/license/"
+      url: "license/"
     - label: "Privacy Policy"
       icon: "fas fa-fw fa-mask"
-      url: "/privacy/"
+      url: "privacy/"
     - label: "Term & Conditions"
       icon: "fas fa-fw fa-balance-scale-right"
-      url: "/terms/"
+      url: "terms/"
 
 defaults:
   # _pages
