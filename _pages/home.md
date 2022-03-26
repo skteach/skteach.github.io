@@ -7,13 +7,13 @@ header:
   overlay_color: "#4d2e00"
   overlay_image: assets/images/car2.png
   actions:
-    - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
-      url: "/join-us/"
+    - label: "<i class='fas fa-fw fa-handshake'></i> Join Project VIKRAM : Change the world"
+      url: "https://projectvikram.github.io/join-us//"
 excerpt:
   <b>Internship Portfolio site<br>
   meant for academic purposes</b><br>
   <small>
-  <a href="about/">More about me™  </a>
+  <a href="resume/">More about me  </a>
   </small>
 feature_row:
   - image_path: assets/images/interiorprops1.png
