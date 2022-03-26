@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Sahaja Katta"
   avatar : "/assets/images/ayetutor.png"
-  bio    : "AyeAI is a cognitive edutech company. We make technology democratic."
+  bio    : "BFA Animation - Final year. We make technology democratic."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
