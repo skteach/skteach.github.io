@@ -18,7 +18,7 @@ feature_row:
     btn_label: "Profile"
 ---
 
-# Team Project Vikram
+# Career Mentors
 
 {% include feature_row %}
 
