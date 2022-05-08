@@ -7,6 +7,6 @@ title: Academics
 1. Write your
 
 ### Experience
-1. AyeAI (period) internship
+1. AyeAI, Duration, internship
 
 
