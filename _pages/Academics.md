@@ -4,9 +4,9 @@ title: Academics
 ---
 
 ### Qualifications
-1. BFA Animation
+1. Write your
 
 ### Experience
-1. AyeAI, Dec 2021 - Feb 2022, Winter internship
+1. AyeAI (period) internship
 
 
