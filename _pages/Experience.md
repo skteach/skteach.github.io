@@ -4,9 +4,9 @@ title: Experience
 ---
 
 ### Qualifications
-1. BFA Animation
+1. 
 
 ### Experience
-1. AyeAI, Dec 2021 - Feb 2022, Winter internship
+1. AyeAI,Duration, internship
 
 
