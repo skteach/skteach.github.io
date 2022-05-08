@@ -2,10 +2,10 @@
 layout: single
 permalink: /
 hidden: true
-title: Sahaja Katta 
+title: Student Name
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/6/60/Lanature1882_praxinoscope_projection_reynaud.png
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/British_Museum_Reading_Room%2C_reading_desk_F1.jpg/640px-British_Museum_Reading_Room%2C_reading_desk_F1.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join Project VIKRAM : Change the world"
       url: "https://projectvikram.github.io/join-us//"
@@ -39,7 +39,7 @@ feature_row:
     btn_label: "Learn more"        
 ---
 
-### Hi, welcome to my portfolio site. I am a final year student of BFA in Animation from JNFAU.
+### Hi, welcome to my portfolio site. I am a final year student ....
 #### This website contains my work portfolio.
 
 
