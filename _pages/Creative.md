@@ -1,5 +1,0 @@
----
-permalink: /creative/
-title: Creative
----
-
