@@ -1,6 +1,6 @@
 ---
 permalink: /animations/
-title: Animations
+title: Annoucements
 ---
 
-Coming soon
+For Students
